@@ -1,18 +1,11 @@
 ---
-title: Gatha de la lessive
-Quand je nettoie les taches sur le linge,
-je fais voeu avec tous les êtres
-de sortir de l’illusion que la vie est sans taches
+title: My Way to Relax in Nature and Stress Less
 subtitle: >-
-  Gatha de la lessive
-Quand je nettoie les taches sur le linge,
-je fais voeu avec tous les êtres
-de sortir de l’illusion que la vie est sans taches
+  The way I spend time out in nature can affect how much my physical and mental
+  health will recharge and how I benefit from it.
 excerpt: >-
-  Gatha de la lessive
-Quand je nettoie les taches sur le linge,
-je fais voeu avec tous les êtres
-de sortir de l’illusion que la vie est sans taches
+  The way I spend time out in nature can affect how much my physical and mental
+  health will recharge and how I benefit from it.
 date: '2019-03-24'
 thumb_img_path: images/4.jpg
 thumb_img_alt: A man fishing in a lake
