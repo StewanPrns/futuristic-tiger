@@ -38,12 +38,12 @@ seo:
       relativeUrl: true
 layout: post
 excerpt: >-
-  *“Me réveillant ce matin, je vois le ciel bleu.*
-*Je joins mes mains en remerciement
-pour toutes les merveilles de la vie ;
-pour ces vingt-quatre heures toutes neuves devant moi.
-Le soleil se lève.
-La forêt devient ma pleine conscience
+  “Me réveillant ce matin, je vois le ciel bleu.*
+  Je joins mes mains en remerciement
+  pour toutes les merveilles de la vie ;
+  pour ces vingt-quatre heures toutes neuves devant moi.
+  Le soleil se lève.
+  La forêt devient ma pleine conscience
 baignée de soleil.*
 *– “Vingt-quatre heures toutes neuves” poésie, (Thich Nhat Hanh)*
 ---
