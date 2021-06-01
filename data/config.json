@@ -24,6 +24,15 @@
                 "style": "link"
             },
             {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "icon_class": "dev",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
                 "label": "Contact",
                 "url": "/contact",
                 "style": "link"
@@ -68,8 +77,6 @@
             }
         ]
     },
-    "footer": {
-        
-    },
+    "footer": {},
     "domain": "https://futuristic-tiger-34675.netlify.app"
 }
