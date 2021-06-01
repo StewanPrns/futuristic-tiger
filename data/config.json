@@ -14,13 +14,13 @@
                 "style": "link"
             },
             {
-                "label": "Accueil",
-                "url": "/",
+                "label": "Qui sommes nous",
+                "url": "/about",
                 "style": "link"
             },
             {
-                "label": "Qui sommes nous",
-                "url": "/about",
+                "label": "Accueil",
+                "url": "/",
                 "style": "link"
             },
             {
