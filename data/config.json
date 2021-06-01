@@ -6,7 +6,7 @@
         "tagline": "Moderne et artisanale",
         "logo_img_alt": "L&L Logo",
         "background_img": "images/IMG-20210530-WA0016.jpg",
-        "has_nav": false,
+        "has_nav": true,
         "nav_links": [
             {
                 "label": "Accueil",
