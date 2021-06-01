@@ -4,8 +4,7 @@ subtitle: This is a short page about me and my work
 img_path: images/IMG-20210530-WA0015.jpg
 seo:
   title: About Me
-  description: A page about me and my work
-  extra:
+  description: qui sommes nous
     - name: 'og:type'
       value: website
       keyName: property
