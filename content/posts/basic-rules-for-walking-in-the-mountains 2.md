@@ -1,5 +1,5 @@
 ---
-title: Technologie artisanale, nature preservé.
+title: Technologie artisanale, nature preservée.
 excerpt: >-
   La terre n'est pas une ressource, c'est la source
 date: '2019-04-09'
