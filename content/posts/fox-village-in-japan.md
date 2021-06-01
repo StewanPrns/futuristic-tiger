@@ -1,8 +1,6 @@
 ---
 title: Une lessive artisanale moderne et respectueuse
-subtitle: >-
-  Apparently, Japan is covered in magical and irresistibly cute animal
-  sanctuaries.
+subtitle: 'Apparently, Japan is covered in magical and '
 excerpt: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries. The Shrines of Ise have been celebrated as the prototype of
