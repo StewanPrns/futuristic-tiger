@@ -1,5 +1,5 @@
 ---
-title: Une lessiveartisanale moderne et respectueuse
+title: Une lessive artisanale moderne et respectueuse
 subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.
