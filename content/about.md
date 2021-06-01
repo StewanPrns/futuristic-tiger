@@ -32,6 +32,7 @@ layout: page
 ---
 
 >Gatha de la lessive
+
 Quand je nettoie les taches sur le linge,
 je fais voeu avec tous les êtres
 de sortir de l’illusion que la vie est sans taches
