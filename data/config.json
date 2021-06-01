@@ -9,6 +9,11 @@
         "has_nav": true,
         "nav_links": [
             {
+                "label": "Alors ces lessives?",
+                "url": "/style-guide",
+                "style": "link"
+            },
+            {
                 "label": "Accueil",
                 "url": "/",
                 "style": "link"
@@ -16,11 +21,6 @@
             {
                 "label": "Qui sommes nous",
                 "url": "/about",
-                "style": "link"
-            },
-            {
-                "label": "Alors ces lessives?",
-                "url": "/style-guide",
                 "style": "link"
             },
             {
