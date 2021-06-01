@@ -13,7 +13,7 @@ seo:
       value: About Me
       keyName: property
     - name: 'og:description'
-      value: A page about me and my work
+      value: Qui sommes nous
       keyName: property
     - name: 'og:image'
       value: images/about.jpg
