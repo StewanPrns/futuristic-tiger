@@ -1,5 +1,5 @@
 ---
-title: 'Une lessive moderne '
+title: Une lessive moderne et respectueuse
 subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.
