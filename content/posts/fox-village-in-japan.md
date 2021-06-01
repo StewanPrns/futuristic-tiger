@@ -45,7 +45,8 @@ excerpt: >-
   Le soleil se lève.
   La forêt devient ma pleine conscience
   baignée de soleil.
-  Vingt-quatre heures toutes neuves” poésie, (Thich Nhat Hanh)*
+  Vingt-quatre heures toutes neuves
+   (Thich Nhat Hanh)
 ---
 
 
