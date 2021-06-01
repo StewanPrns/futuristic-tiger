@@ -38,7 +38,7 @@ seo:
       relativeUrl: true
 layout: post
 excerpt: >-
-  Me réveillant ce matin, je vois le ciel bleu.*
+  Me réveillant ce matin, je vois le ciel bleu.
   Je joins mes mains en remerciement
   pour toutes les merveilles de la vie ;
   pour ces vingt-quatre heures toutes neuves devant moi.
