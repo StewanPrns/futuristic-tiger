@@ -38,14 +38,18 @@ seo:
       relativeUrl: true
 layout: post
 excerpt: >-
-“Me réveillant ce matin, je vois le ciel bleu.
-Je joins mes mains en remerciement
+  Apparently, Japan is covered in magical and irresistibly cute animal
+  sanctuaries. The Shrines of Ise have been celebrated as the prototype of
+  Japanese architecture. Largely of wood, traditional housing and many temple
+  buildings see the use of tatami mats and sliding doors that break down the
+  distinction between rooms and indoor and outdoor space.
+---
+*“Me réveillant ce matin, je vois le ciel bleu.*
+*Je joins mes mains en remerciement
 pour toutes les merveilles de la vie ;
 pour ces vingt-quatre heures toutes neuves devant moi.
 Le soleil se lève.
 La forêt devient ma pleine conscience
-baignée de soleil.
-“Vingt-quatre heures toutes neuves” poésie, (Thich Nhat Hanh)
----
-
+baignée de soleil.*
+*– “Vingt-quatre heures toutes neuves” poésie, (Thich Nhat Hanh)*
 
