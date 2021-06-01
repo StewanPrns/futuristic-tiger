@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: This is a short page about me and my work
+subtitle: Qui sommes nous
 img_path: images/IMG-20210530-WA0015.jpg
 seo:
   title: About Me
