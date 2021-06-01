@@ -43,7 +43,7 @@ excerpt: >-
   heures toutes neuves devant moi. Le soleil se lève. La forêt devient ma pleine
   conscience baignée de soleil. Vingt-quatre heures toutes neuves
    (Thich Nhat Hanh)
-hide_header: true
+hide_header: false
 ---
 
 
