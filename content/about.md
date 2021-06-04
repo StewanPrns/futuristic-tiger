@@ -28,7 +28,7 @@ seo:
       value: images/about.jpg
       relativeUrl: true
 layout: page
-subtitle: Et vous d'abords?
+subtitle: Et vous ?
 ---
 
 >Gatha de la lessive
