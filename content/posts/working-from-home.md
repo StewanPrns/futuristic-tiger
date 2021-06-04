@@ -1,9 +1,22 @@
 ---
 title: The Advantages and Disadvantages of Working from Home
 excerpt: >-
-  Work at home parent is an entrepreneur who works from home and integrates
-  parenting into his or her business activities. They are sometimes referred to
-  as a WAHM (work at home mom) or a WAHD (work at home dad).
+  Troisième Entraînement : Amour véritable Conscient de la souffrance provoquée
+  par une conduite sexuelle irresponsable, je suis déterminé à développer mon
+  sens de la responsabilité et à apprendre à protéger l’intégrité et la sécurité
+  de chaque individu, des couples, des familles et de la société. Je sais que le
+  désir sexuel et l’amour sont deux choses distinctes, et que des relations
+  sexuelles irresponsables, motivées par l’avidité, génèrent toujours de la
+  souffrance de part et d’autre. Je m’engage à ne pas avoir de relation sexuelle
+  sans amour véritable ni engagement profond, à long terme et connu de mes
+  proches. Je ferai tout mon possible pour protéger les enfants des abus sexuels
+  et pour empêcher les couples et les familles de se désunir par suite de
+  comportements sexuels irresponsables. Sachant que le corps et l’esprit ne font
+  qu’un, je m’engage à apprendre les moyens appropriés pour gérer mon énergie
+  sexuelle. Je m’engage à développer la bonté aimante, la compassion, la joie et
+  la non-discrimination en moi, pour mon propre bonheur et le bonheur d’autrui.
+  Je sais que la pratique de ces quatre fondements de l’amour véritable me
+  garantira une continuation heureuse dans l’avenir.
 date: '2016-08-22'
 thumb_img_path: images/9.jpg
 thumb_img_alt: Home office setup
