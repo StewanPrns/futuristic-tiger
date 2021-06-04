@@ -1,5 +1,10 @@
 ---
-title: The Advantages and Disadvantages of Working from Home
+title: >-
+  Conscient de la souffrance provoquée par des paroles irréfléchies et par
+  l’incapacité à écouter autrui, je suis déterminé à apprendre à parler à tous
+  avec amour et à développer une écoute profonde qui soulage la souffrance et
+  apporte paix et réconciliation entre moi-même et autrui, entre groupes
+  ethniques et religieux, et entre les nations.
 excerpt: >-
   Troisième Entraînement : Amour véritable Conscient de la souffrance provoquée
   par une conduite sexuelle irresponsable, je suis déterminé à développer mon
