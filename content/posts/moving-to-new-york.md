@@ -2,7 +2,7 @@
 title: >-
   En lavant la vaisselle En lavant la vaisselle dans la dimension historique, 
   Je souris pour moi-même.  Que fais-je donc là ?  Une rose fraîche s’ouvre.
-subtitle: A cautionary tale about life in New York
+subtitle: 'Deuxième Entraînement : Bonheur véritable'
 excerpt: >-
   Assis au pied de l’arbre de l’éveil,  Ma posture est stable.  Corps, parole et
   esprit calmes et tranquilles,  Il n’y a plus de pensées ni de bien ni de mal. 
