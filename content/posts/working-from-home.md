@@ -18,7 +18,7 @@ excerpt: >-
   Je sais que la pratique de ces quatre fondements de l’amour véritable me
   garantira une continuation heureuse dans l’avenir.
 date: '2016-08-22'
-thumb_img_path: images/9.jpg
+thumb_img_path: images/contact.jpg
 thumb_img_alt: Home office setup
 content_img_path: images/9.jpg
 seo:
