@@ -41,8 +41,6 @@ seo:
       relativeUrl: true
 layout: post
 ---
-Deuxième Entraînement : Bonheur véritable
 Conscient de la souffrance provoquée par le vol, l’oppression, l’exploitation et l’injustice sociale, je suis déterminé à pratiquer la générosité dans mes pensées, dans mes paroles et dans mes actions de la vie quotidienne. Je partagerai mon temps, mon énergie et mes ressources matérielles avec ceux qui en ont besoin. Je m’engage à ne pas m’approprier ce qui ne m’appartient pas. Je m’entraînerai à regarder profondément afin de voir que le bonheur et la souffrance d’autrui sont étroitement liés à mon propre bonheur et à ma propre souffrance. Je comprends que le bonheur véritable est impossible sans compréhension et amour, et que la recherche du bonheur dans l’argent, la renommée, le pouvoir ou le plaisir sensuel génère beaucoup de souffrance et de désespoir.
 
 J’approfondirai ma compréhension du bonheur véritable qui dépend davantage de ma façon de penser que de conditions extérieures. Si je suis capable de m’établir dans le moment présent, je peux vivre heureux ici et maintenant, dans la simplicité, reconnaissant que de nombreuses conditions de bonheur sont déjà disponibles en moi et autour de moi. Conscient de cela, je suis déterminé à choisir des moyens d’existence justes afin de réduire la souffrance et de contribuer au bien-être de toutes les espèces sur Terre, notamment en agissant pour inverser le processus du réchauffement planétaire.
-
