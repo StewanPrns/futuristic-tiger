@@ -3,7 +3,7 @@ title: Une lessive artisanale moderne et respectueuse
 date: '2021-01-11'
 thumb_img_path: images/IMG-20210530-WA0018.jpg
 thumb_img_alt: A red fox sitting on a meadow
-content_img_path: images/10.jpg
+content_img_path: images/IMG-20210530-WA0015.jpg
 seo:
   title: Fox Village In Japan
   description: >-
