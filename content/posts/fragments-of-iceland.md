@@ -1,9 +1,17 @@
 ---
 title: On pourrait vous dire aussi
 excerpt: >-
-  Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
-  It has a population of 325,671 and an area of 103,000 km2 (40,000 sq mi),
-  making it the most sparsely populated country in Europe.
+  Le premier Entraînement : Protection de la vie Conscient de la souffrance
+  provoquée par la destruction de la vie, je suis déterminé à cultiver ma
+  compréhension de l’Inter-Être et ma compassion, afin d’apprendre comment
+  protéger la vie des personnes, des animaux, des plantes et des minéraux. Je
+  m’engage à ne pas tuer, à ne pas laisser tuer et à ne soutenir aucun acte
+  meurtrier dans le monde, dans mes pensées ou dans ma façon de vivre. Je
+  comprends que toute violence causée notamment par le fanatisme, la haine,
+  l’avidité, la peur, a son origine dans une vue dualiste et discriminante. Je
+  m’entraînerai à tout regarder avec ouverture, sans discrimination ni
+  attachement à aucune vue ni à aucune idéologie, pour œuvrer à transformer la
+  violence et le dogmatisme qui demeurent en moi et dans le monde.
 date: '2018-01-09'
 thumb_img_path: images/IMG-20210530-WA0016.jpg
 thumb_img_alt: Icelandic horses
