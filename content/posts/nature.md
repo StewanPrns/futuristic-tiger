@@ -1,7 +1,7 @@
 ---
 title: 'Par la fenêtre, je contemple la vie.'
 subtitle: >-
-  Gatha de la lessive Quand je nettoie les taches sur le linge, je fais voeu
+  Gatha de la lessive Quand je nettoie les taches sur le linge, je fais voeux
   avec tous les êtres de sortir de l’illusion que la vie est sans taches
 date: '2019-03-24'
 thumb_img_path: images/IMG-20210530-WA0018.jpg
