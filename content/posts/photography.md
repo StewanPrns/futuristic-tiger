@@ -1,8 +1,8 @@
 ---
 title: >-
-  En balayant les feuilles En balayant les feuilles dans la dimension ultime, 
-  Chaque feuille est une manifestation  Dans une partie de cache-cache.  Elle ne
-  vient, et ne va nulle part.
+  En balayant les feuilles dans la dimension ultime,  Chaque feuille est une
+  manifestation  Dans une partie de cache-cache.  Elle ne vient, et ne va nulle
+  part.
 subtitle: A intresting tale about Photography and me
 excerpt: >-
   En ouvrant la fenêtre Par la fenêtre, je contemple la vie.  Qu’elle est
