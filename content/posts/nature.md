@@ -5,7 +5,12 @@ subtitle: >-
   avec tous les êtres de sortir de l’illusion que la vie est sans taches
 date: '2019-03-24'
 thumb_img_path: images/IMG-20210530-WA0018.jpg
-thumb_img_alt: A man fishing in a lake
+thumb_img_alt: >-
+  Conscient de la souffrance provoquée par des paroles irréfléchies et par
+  l’incapacité à écouter autrui, je suis déterminé à apprendre à parler à tous
+  avec amour et à développer une écoute profonde qui soulage la souffrance et
+  apporte paix et réconciliation entre moi-même et autrui, entre groupes
+  ethniques et religieux, et entre les nations.
 hide_header: true
 seo:
   title: My Way to Relax in Nature and Stress Less
