@@ -1,5 +1,5 @@
 ---
-title: "En lavant le linge dans la dimension historique\_ Je souris pour moi-même.  Que fais-je donc là ?  Une rose fraîche s’ouvre."
+title: "En lavant le linge dans la dimension historique\_ \_ \_ Je souris pour moi-même.\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Que fais-je donc là ?\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Une rose fraîche s’ouvre."
 subtitle: 'Deuxième Entraînement : Bonheur véritable'
 excerpt: >-
   Assis au pied de l’arbre de l’éveil,  Ma posture est stable.  Corps, parole et
