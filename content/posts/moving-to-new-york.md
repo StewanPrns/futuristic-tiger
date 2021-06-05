@@ -1,7 +1,7 @@
 ---
 title: >-
-  En lavant la vaisselle En lavant la vaisselle dans la dimension historique, 
-  Je souris pour moi-même.  Que fais-je donc là ?  Une rose fraîche s’ouvre.
+  En lavant le linge dans la dimension historique,  Je souris pour moi-même. 
+  Que fais-je donc là ?  Une rose fraîche s’ouvre.
 subtitle: 'Deuxième Entraînement : Bonheur véritable'
 excerpt: >-
   Assis au pied de l’arbre de l’éveil,  Ma posture est stable.  Corps, parole et
