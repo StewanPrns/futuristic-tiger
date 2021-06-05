@@ -9,7 +9,7 @@ excerpt: >-
   merveilleuse !  Attentif à chaque instant,  Ma conscience est claire comme un
   fleuve tranquille.
 date: '2018-01-15'
-thumb_img_path: images/20210519_181940.jpg
+thumb_img_path: images/gettyimages-961109088-615x410.jpg
 thumb_img_alt: A man looking at a beautiful lake and mountains landscape in Switzerland
 content_img_path: images/8.jpg
 seo:
