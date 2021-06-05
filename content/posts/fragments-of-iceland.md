@@ -13,7 +13,7 @@ excerpt: >-
   attachement à aucune vue ni à aucune idéologie, pour œuvrer à transformer la
   violence et le dogmatisme qui demeurent en moi et dans le monde.
 date: '2018-01-09'
-thumb_img_path: images/IMG-20210530-WA0016.jpg
+thumb_img_path: images/gettyimages-119704392-617x410.jpg
 thumb_img_alt: Icelandic horses
 hide_header: true
 seo:
