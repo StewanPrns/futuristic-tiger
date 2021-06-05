@@ -1,7 +1,5 @@
 ---
-title: >-
-  En lavant le linge dans la dimension historique,  Je souris pour moi-même. 
-  Que fais-je donc là ?  Une rose fraîche s’ouvre.
+title: "En lavant le linge dans la dimension historique\_ Je souris pour moi-même.  Que fais-je donc là ?  Une rose fraîche s’ouvre."
 subtitle: 'Deuxième Entraînement : Bonheur véritable'
 excerpt: >-
   Assis au pied de l’arbre de l’éveil,  Ma posture est stable.  Corps, parole et
