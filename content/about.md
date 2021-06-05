@@ -1,6 +1,6 @@
 ---
 title: Qui sommes nous?
-img_path: images/IMG-20210530-WA0015.jpg
+img_path: images/gettyimages-102562239-615x410.jpg
 seo:
   title: About Me
   description: Qui sommes nous
