@@ -2,7 +2,7 @@
 title: 'Technologie artisanale, nature préservée.'
 excerpt: 'La terre n''est pas une ressource, c''est la source'
 date: '2019-04-09'
-thumb_img_path: images/IMG-20210530-WA0015.jpg
+thumb_img_path: images/linge.jpeg
 thumb_img_alt: A man standing on a rock cliff overlooking a river
 content_img_path: images/1.jpg
 seo:
