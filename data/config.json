@@ -1,4 +1,18 @@
 {
+
+
+    {
+  "name": "your-project",
+  "version": "1.0.0",
+  "devDependencies": {
+    "hugo-bin": "^0.139.0"
+  },
+  "hugo-bin": {
+    "buildTags": "extended",
+    "downloadRepo": "https://some.example.com/artifactory/github-releases",
+    "version": "0.124.1"
+  }
+}
     "title": "Linge et Lierre Alpha 0.01",
     "palette": "yellow",
     "header": {
